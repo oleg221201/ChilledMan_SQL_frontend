@@ -1,0 +1,36 @@
+.profileInfo {
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+}
+.block {
+    padding-top: 50px;
+}
+.posts {
+    border: 1px solid black;
+    background-color: white;
+}
+.posts_block{
+    margin-left: 25px;
+}
+.username {
+    margin-bottom: 50px;
+}
+.btn_more {
+    display: inline-block;
+    margin-right: 10px;
+}
+.edit_del_block {
+    display: inline-block;
+}
+.btn_edit{
+    background-color: orange;
+    border: 0px;
+    color: white
+}
+.btn_del {
+    background-color: red;
+    border: 0px;
+    color: white;
+}
+
